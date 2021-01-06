@@ -1,0 +1,67 @@
+[11916:5336:1105/170912:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://web-crashlog.whatsapp.net/upload.php --application-name=WhatsApp --v=1]
+[11916:5336:1105/170912:VERBOSE1:crash_service.cc(142)] window handle is 000000000009076A
+[11916:5336:1105/170912:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\WhatsApp Crash Service
+dumps at C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes
+[11916:5336:1105/170912:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes\crash_checkpoint.txt
+server is https://web-crashlog.whatsapp.net/upload.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[11916:5336:1105/170912:VERBOSE1:crash_service_main.cc(92)] Ready to process crash requests
+[11916:10768:1105/170912:VERBOSE1:crash_service.cc(317)] client start. pid = 9844
+[11916:10656:1105/170912:VERBOSE1:crash_service.cc(325)] client end. pid = 9844
+[11916:10656:1105/170913:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[11916:5336:1105/170913:VERBOSE1:crash_service.cc(486)] session ending..
+[11916:5336:1105/170913:VERBOSE1:crash_service.cc(491)] clients connected :1
+clients terminated :1
+dumps serviced :0
+dumps reported :0
+[11916:5336:1105/170913:VERBOSE1:crash_service_main.cc(97)] Session end. return code is 0
+[4952:6624:1105/170914:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://web-crashlog.whatsapp.net/upload.php --application-name=WhatsApp --v=1]
+[4952:6624:1105/170914:VERBOSE1:crash_service.cc(142)] window handle is 00000000000A07AA
+[4952:6624:1105/170914:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\WhatsApp Crash Service
+dumps at C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes
+[4952:6624:1105/170914:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes\crash_checkpoint.txt
+server is https://web-crashlog.whatsapp.net/upload.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[4952:6624:1105/170914:VERBOSE1:crash_service_main.cc(92)] Ready to process crash requests
+[4952:12256:1105/170914:VERBOSE1:crash_service.cc(317)] client start. pid = 9412
+[4952:12256:1105/170915:VERBOSE1:crash_service.cc(317)] client start. pid = 7160
+[12264:7524:1105/170915:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://web-crashlog.whatsapp.net/upload.php --application-name=WhatsApp --v=1]
+[12264:7524:1105/170915:VERBOSE1:crash_service.cc(142)] window handle is 00000000000207F6
+[12264:7524:1105/170915:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\WhatsApp Crash Service
+dumps at C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes
+[12264:7524:1105/170915:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes\crash_checkpoint.txt
+server is https://web-crashlog.whatsapp.net/upload.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[12264:7524:1105/170915:ERROR:crash_service.cc(295)] could not start dumper
+[4952:9128:1105/171351:VERBOSE1:crash_service.cc(325)] client end. pid = 7160
+[4952:9128:1105/171351:VERBOSE1:crash_service.cc(325)] client end. pid = 9412
+[4952:9128:1105/171352:VERBOSE1:crash_service.cc(346)] zero clients. exiting
+[4952:6624:1105/171352:VERBOSE1:crash_service.cc(486)] session ending..
+[4952:6624:1105/171352:VERBOSE1:crash_service.cc(491)] clients connected :2
+clients terminated :2
+dumps serviced :0
+dumps reported :0
+[4952:6624:1105/171352:VERBOSE1:crash_service_main.cc(97)] Session end. return code is 0
+[8544:8552:1105/221454:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://web-crashlog.whatsapp.net/upload.php --application-name=WhatsApp --v=1]
+[8544:8552:1105/221454:VERBOSE1:crash_service.cc(142)] window handle is 00000000000507D8
+[8544:8552:1105/221454:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\WhatsApp Crash Service
+dumps at C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes
+[8544:8552:1105/221454:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes\crash_checkpoint.txt
+server is https://web-crashlog.whatsapp.net/upload.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[8544:8552:1105/221454:VERBOSE1:crash_service_main.cc(92)] Ready to process crash requests
+[8544:6456:1105/221454:VERBOSE1:crash_service.cc(317)] client start. pid = 8772
+[8544:6456:1105/221455:VERBOSE1:crash_service.cc(317)] client start. pid = 9040
+[8440:8156:1105/221455:VERBOSE1:crash_service_main.cc(76)] Session start. cmdline is [--reporter-url=https://web-crashlog.whatsapp.net/upload.php --application-name=WhatsApp --v=1]
+[8440:8156:1105/221455:VERBOSE1:crash_service.cc(142)] window handle is 00000000000307FE
+[8440:8156:1105/221455:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\WhatsApp Crash Service
+dumps at C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes
+[8440:8156:1105/221455:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\hubert\AppData\Local\Temp\WhatsApp Crashes\crash_checkpoint.txt
+server is https://web-crashlog.whatsapp.net/upload.php
+maximum 128 reports/day
+reporter is electron-crash-service
+[8440:8156:1105/221455:ERROR:crash_service.cc(295)] could not start dumper

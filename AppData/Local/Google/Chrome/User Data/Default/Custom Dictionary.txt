@@ -1,0 +1,2 @@
+wolnostojący
+checksum_v1 = 980ad4afcab3892c7f81bb7fae7ec9c3

@@ -1,0 +1,3 @@
+   Log   |             Time stamp            |     Time since     |    Total time    | 
+  level  |                                   |    previous log    |    since boot    | 
+---------------------------------------------------------------------------------------

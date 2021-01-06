@@ -1,0 +1,4 @@
+   Log   |             Time stamp            |     Time since     |    Total time    | 
+  level  |                                   |    previous log    |    since boot    | 
+---------------------------------------------------------------------------------------
+ Debug   | 2016-10-12T09:41:37.3828636+02:00 |                    | 00:00:00.0956056 | UDFM initialized.

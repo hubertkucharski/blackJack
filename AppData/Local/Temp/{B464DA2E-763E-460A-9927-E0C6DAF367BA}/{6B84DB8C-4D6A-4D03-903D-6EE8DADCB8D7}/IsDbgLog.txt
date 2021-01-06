@@ -1,0 +1,6 @@
+13:42:35 PM Driver start install
+13:42:35 Calling CheckRequirements
+13:42:35 Calling IsACPIInstalled
+13:42:35 Calling CheckInstallVersion
+13:42:35 Checking DISKKU.VER
+13:42:35 Call InsHlp86.exe

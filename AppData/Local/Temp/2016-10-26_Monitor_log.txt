@@ -1,0 +1,6 @@
+[2016/10/26 17:11:37]  LauncherVisibilityChange->Start menu m_bMetroMode =0
+[2016/10/26 17:11:42]  LauncherVisibilityChange->Start menu m_bMetroMode =0
+[2016/10/26 18:00:48]  LauncherVisibilityChange->Start menu m_bMetroMode =0
+[2016/10/26 18:00:53]  LauncherVisibilityChange->Start menu m_bMetroMode =0
+[2016/10/26 18:00:54]  LauncherVisibilityChange->Start menu m_bMetroMode =0
+

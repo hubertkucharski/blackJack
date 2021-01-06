@@ -1,0 +1,3 @@
+[2016/10/15 06:18:00]  AppVisibilityOnMonitorChanged->Start menu m_bMetroMode =0
+[2016/10/15 06:37:01]  LauncherVisibilityChange->Start menu m_bMetroMode =0
+

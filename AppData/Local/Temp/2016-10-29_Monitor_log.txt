@@ -1,0 +1,114 @@
+[2016/10/29 08:13:10]  * EnumVisib, current is not visible
+[2016/10/29 08:13:10] OnInitDialog
+[2016/10/29 08:13:10] C:\Users\hubert\AppData\Local\Temp\2016-10-29_Monitor_log.txt
+[2016/10/29 08:13:15] timer! 5sec
+[2016/10/29 08:13:15] in MactionAction
+[2016/10/29 08:13:15] enter smbios_info
+[2016/10/29 08:13:15] Get Reg_data
+[2016/10/29 08:13:15] Get smbiosdata
+[2016/10/29 08:13:15] malloc m_pData success
+[2016/10/29 08:13:15] connect smbiosdata success
+[2016/10/29 08:13:15] Sunplus Camera init ok
+[2016/10/29 08:13:15] The name is intergate...
+[2016/10/29 08:13:15] QueryInterface pCusP  = TRUE
+[2016/10/29 08:13:15] Pid=0x268, vid=0x5986
+[2016/10/29 08:13:15] old method Pid=0x268, vid=0x5986
+[2016/10/29 08:13:15] The same camera, no need change
+[2016/10/29 08:13:15] OnSettingChange
+[2016/10/29 08:13:15] EnumVideoDevice start
+[2016/10/29 08:13:15] CoCreateInstance
+[2016/10/29 08:13:15] Integrated Camera
+[2016/10/29 08:13:15] Integrated Camera
+[2016/10/29 08:13:15] EnumVideoDevice end
+[2016/10/29 08:13:15] bFind && CVIterator->pCmp != NULL
+[2016/10/29 08:13:15] ChangeRotation
+[2016/10/29 08:13:15] in ChangeRotation
+[2016/10/29 08:13:15] isMetroMode
+[2016/10/29 08:13:15] is Win8, check launcher state.
+[2016/10/29 08:13:15] iRotation = 0, RotationEnable = 0
+[2016/10/29 08:13:15] normal mode
+[2016/10/29 08:13:15] dwValue[0] = 0, iRotation = 0
+[2016/10/29 08:13:15] *****************
+[2016/10/29 08:13:15] LS KEY is : 1
+[2016/10/29 08:13:15] *****************
+[2016/10/29 08:13:15] <<<< LS key is 1, no rotate.
+[2016/10/29 08:13:15] first boot up, set 0.
+[2016/10/29 08:13:15] finally, I set 0 to driver (SetCustomProperty)
+[2016/10/29 08:13:15] RemoveDevice
+[2016/10/29 08:13:15] CoUninitialize
+[2016/10/29 08:13:15] end OnSettingChange
+[2016/10/29 08:13:15] Clean, pProcAmp & pCustom & pCap & pCamera
+[2016/10/29 08:13:15] 1
+[2016/10/29 08:13:15] 2
+[2016/10/29 08:13:15] 3
+[2016/10/29 08:13:15] 8
+[2016/10/29 08:13:24] i get GRAVITY_ROTATE_MSG event
+[2016/10/29 08:13:24] OnSettingChange
+[2016/10/29 08:13:24] EnumVideoDevice start
+[2016/10/29 08:13:24] CoCreateInstance
+[2016/10/29 08:13:24] Integrated Camera
+[2016/10/29 08:13:24] Integrated Camera
+[2016/10/29 08:13:24] EnumVideoDevice end
+[2016/10/29 08:13:24] bFind && CVIterator->pCmp != NULL
+[2016/10/29 08:13:24] ChangeRotation
+[2016/10/29 08:13:24] in ChangeRotation
+[2016/10/29 08:13:24] isMetroMode
+[2016/10/29 08:13:24] is Win8, check launcher state.
+[2016/10/29 08:13:24] iRotation = 0, RotationEnable = 0
+[2016/10/29 08:13:24] normal mode
+[2016/10/29 08:13:24] dwValue[0] = 0, iRotation = 0
+[2016/10/29 08:13:24] *****************
+[2016/10/29 08:13:24] LS KEY is : 1
+[2016/10/29 08:13:24] *****************
+[2016/10/29 08:13:24] <<<< LS key is 1, no rotate.
+[2016/10/29 08:13:24] finally, I set 8 to driver (SetCustomProperty)
+[2016/10/29 08:13:24] RemoveDevice
+[2016/10/29 08:13:24] CoUninitialize
+[2016/10/29 08:13:24] end OnSettingChange
+[2016/10/29 08:14:37] WM_DISPLAYCHANGE
+[2016/10/29 08:14:37] OnSettingChange
+[2016/10/29 08:14:37] EnumVideoDevice start
+[2016/10/29 08:14:37] CoCreateInstance
+[2016/10/29 08:14:37] Integrated Camera
+[2016/10/29 08:14:37] Integrated Camera
+[2016/10/29 08:14:37] EnumVideoDevice end
+[2016/10/29 08:14:37] bFind && CVIterator->pCmp != NULL
+[2016/10/29 08:14:37] ChangeRotation
+[2016/10/29 08:14:37] in ChangeRotation
+[2016/10/29 08:14:37] isMetroMode
+[2016/10/29 08:14:37] is Win8, check launcher state.
+[2016/10/29 08:14:37] iRotation = 0, RotationEnable = 0
+[2016/10/29 08:14:37] normal mode
+[2016/10/29 08:14:37] dwValue[0] = 0, iRotation = 0
+[2016/10/29 08:14:37] *****************
+[2016/10/29 08:14:37] LS KEY is : 1
+[2016/10/29 08:14:37] *****************
+[2016/10/29 08:14:37] <<<< LS key is 1, no rotate.
+[2016/10/29 08:14:37] finally, I set 8 to driver (SetCustomProperty)
+[2016/10/29 08:14:37] RemoveDevice
+[2016/10/29 08:14:37] CoUninitialize
+[2016/10/29 08:14:37] end OnSettingChange
+[2016/10/29 08:14:40] OnSettingChange
+[2016/10/29 08:14:40] EnumVideoDevice start
+[2016/10/29 08:14:41] CoCreateInstance
+[2016/10/29 08:14:41] Integrated Camera
+[2016/10/29 08:14:41] Integrated Camera
+[2016/10/29 08:14:41] EnumVideoDevice end
+[2016/10/29 08:14:41] bFind && CVIterator->pCmp != NULL
+[2016/10/29 08:14:41] ChangeRotation
+[2016/10/29 08:14:41] in ChangeRotation
+[2016/10/29 08:14:41] isMetroMode
+[2016/10/29 08:14:41] is Win8, check launcher state.
+[2016/10/29 08:14:41] iRotation = 0, RotationEnable = 0
+[2016/10/29 08:14:41] normal mode
+[2016/10/29 08:14:41] dwValue[0] = 0, iRotation = 0
+[2016/10/29 08:14:41] *****************
+[2016/10/29 08:14:41] LS KEY is : 1
+[2016/10/29 08:14:41] *****************
+[2016/10/29 08:14:41] <<<< LS key is 1, no rotate.
+[2016/10/29 08:14:41] finally, I set 8 to driver (SetCustomProperty)
+[2016/10/29 08:14:41] RemoveDevice
+[2016/10/29 08:14:41] CoUninitialize
+[2016/10/29 08:14:41] end OnSettingChange
+[2016/10/29 08:14:41]  LauncherVisibilityChange->Start menu m_bMetroMode =0
+
